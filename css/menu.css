@@ -18,6 +18,11 @@ display: none;
     color: var(--purple);
 }
 
+@media screen and (min-width: 768px) and (max-width: 518px) {
+    .menu {
+        display: block;
+    }
+}
 
 
 
